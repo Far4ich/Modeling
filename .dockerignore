@@ -1,0 +1,7 @@
+node_modules
+bar
+*.md
+*.bat
+Dockerfile
+.git
+.gitattributes
